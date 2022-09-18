@@ -1,2 +1,2 @@
 # datascience
-this is just an experiment in my fornming years.
+this is just an experiment in my forming years.
